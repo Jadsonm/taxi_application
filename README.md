@@ -1,16 +1,29 @@
-# taxi_application
+#  Taxi Application
 
-A new Flutter project.
+**Mobilidade Urbana - Integração de Táxis e Tecnologias**  
+Projeto acadêmico desenvolvido na disciplina UPX V
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Sobre o Projeto
 
-A few resources to get you started if this is your first Flutter project:
+É um aplicativo desenvolvido com **Flutter** e **Dart** com o objetivo de modernizar o sistema de mobilidade urbana, integrando tecnologias para facilitar o uso de táxis. A proposta é oferecer uma alternativa prática e acessível ao usuário, permitindo solicitar corridas de forma eficiente.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Funcionalidades
+
+- Localização atual do usuário
+- Seleção de destino
+- Cálculo automático do valor da corrida
+- Integração com mapas e rotas (Google Maps API)
+- Interface responsiva e amigável
+
+---
+
+##  Tecnologias Utilizadas
+
+- **Flutter** – Framework para desenvolvimento mobile
+- **Dart** – Linguagem principal do projeto
+- **Google Maps API** – Exibição de mapa e cálculo de rotas
+- **Geolocator** – Obtenção de localização em tempo real
